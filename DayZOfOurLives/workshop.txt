@@ -1,0 +1,5 @@
+Every new character spawns as somebody: a police officer, a doctor, a firefighter, a lumberjack, an executive... dressed in the matching vanilla outfit, with a few things that fit the job. Twenty-two roles, all made from vanilla clothing and items.
+
+Server-side only: players don't need to download anything. Load it with -serverMod=@DayZOfOurLives.
+
+The roles are a JSON file the server writes on its first start (profiles/DayZOfOurLives/Roles.json): change the outfits, the items, how often each role comes up, or add your own, then restart.

@@ -1,0 +1,3 @@
+# Ours, built from ../DayZOfOurLives (DayZMissions mods/DayZOfOurLives is a symlink to it),
+# loaded server-side with -serverMod: players need nothing.
+local @DayZOfOurLives server
